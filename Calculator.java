@@ -1,7 +1,8 @@
 /**
-*A simple arithmetic calculator that adds, subtracts, muliply,
-*divide and the modulo operator on two integers.
+*A simple arithmetic calculator that performs add, subtract, muliply,
+*divide and the modulus on two integers.
 */
+
 public class Calculator{
   public Calculator(){
 
